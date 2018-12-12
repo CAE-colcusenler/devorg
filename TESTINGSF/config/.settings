@@ -1,0 +1,17 @@
+{
+    "projectName": "TESTINGSF",
+    "username": "colcusenler@deloitte.ca",
+    "id": "b5868c20-fe51-11e8-ad97-45b2cb0726b1",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na85.salesforce.com",
+    "workspace": "C:\\Users\\colcusenler\\Documents\\CAE\\TESTINGSF",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
