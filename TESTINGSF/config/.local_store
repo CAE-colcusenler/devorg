@@ -1,1 +1,16 @@
-{}
+{
+    "AccountTrigger.trigger": {
+        "createdById": "0051U000000Xa8dQAC",
+        "createdByName": "Melih Cem Olcusenler",
+        "createdDate": "2018-12-12T21:48:20.000Z",
+        "fileName": "unpackaged/triggers/AccountTrigger.trigger",
+        "fullName": "AccountTrigger",
+        "id": "01q1U000000Z03aQAC",
+        "lastModifiedById": "0051U000000Xa8dQAC",
+        "lastModifiedByName": "Melih Cem Olcusenler",
+        "lastModifiedDate": "2018-12-12T21:50:43.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexTrigger",
+        "mmState": "clean"
+    }
+}
